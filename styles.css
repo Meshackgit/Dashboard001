@@ -234,14 +234,14 @@ aside .sidebar a:hover span {
     margin-left:1rem;
 }
 
-aside .sidebar .message-count {
-    background: var(--color-danger);
+/* aside .sidebar .message-count { */
+    /* background: var(--color-danger);
     color: var(--color-white);
     padding:2px 11px;
     font-size:11px;
     border-radius:var(--border-radius-1);
-    width: 35px;
-}
+    width: 35px; */
+/* } */
 
 /* ================================ MAIN ==========================*/
 main {
@@ -418,7 +418,6 @@ main a{
     align-items:center;
     height: 1.6rem;
     width: 4.2rem;
-    gap: 1rem;
     cursor: pointer;
     border-radius:var(--border-radius-1 );
 }
